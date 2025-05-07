@@ -341,5 +341,33 @@
         "salary_from": 0,
         "salary_to": 120000,
         "description": "Описание не указано"
+    },
+    {
+        "name": "Системный администратор",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=112451122",
+        "salary_from": 50000,
+        "salary_to": 90000,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "Садовник",
+        "url": "https://hh.com/job2",
+        "salary_from": -60000,
+        "salary_to": 120000,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "Оператор колл-центра (Ярославль)",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120305892",
+        "salary_from": 70000,
+        "salary_to": 0,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "SMM-менеджер",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119880101",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Описание не указано"
     }
 ]
