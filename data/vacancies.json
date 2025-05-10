@@ -369,5 +369,40 @@
         "salary_from": 0,
         "salary_to": 0,
         "description": "Описание не указано"
+    },
+    {
+        "name": "Специалист по продаже недвижимости",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119451021",
+        "salary_from": 500000,
+        "salary_to": 1000000,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "Флорист / Помощник флориста",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120090804",
+        "salary_from": 100000,
+        "salary_to": 300000,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "SMM-специалист/контент-креатор в салон красоты Innstyle",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119688501",
+        "salary_from": 150000,
+        "salary_to": 0,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "Менеджер по продажам",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=118794341",
+        "salary_from": 300000,
+        "salary_to": 1800000,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "Юрисконсульт",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120306372",
+        "salary_from": 15000000,
+        "salary_to": 25000000,
+        "description": "Описание не указано"
     }
 ]
