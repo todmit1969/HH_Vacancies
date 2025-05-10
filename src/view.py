@@ -37,26 +37,33 @@ def user_interaction() -> NoReturn:
             n = int(input("Сколько вакансий вывести?: "))
             data = storage._load_data()
             vacancies_list = [Vacancy(**vacancy) for vacancy in data]
+            #sorted_vacancies = sorted(
+            #    vacancies_list,
+            #    key=lambda x: (x.salary_from + x.salary_to) / 2,
+            #    reverse=True,
+            #)
             sorted_vacancies = sorted(
                 vacancies_list,
-                key=lambda x: (x.salary_from + x.salary_to) / 2,
                 reverse=True,
             )
             for vacancy in sorted_vacancies[:n]:
-                print(vacancy.__str__())
+                print(vacancy)
 
         elif choice == "3":
             keyword = input("Введите ключевое слово: ")
             data = storage._load_data()
             filtered = [v for v in data if keyword.lower() in v["description"].lower()]
             for vacancy in filtered:
-                print(vacancy)
+                print(Vacancy(**vacancy))
 
         elif choice == "4":
             salary_range = input("Введите диапазон зарплаты: ")
             data = storage._load_data()
             salary_filtered = get_vacancies_by_salary(data, salary_range)
-            print(salary_filtered)
+            # print(salary_filtered)
+            for vacancy in salary_filtered:
+                print(Vacancy(**vacancy))
+
 
         elif choice == "5":
             break

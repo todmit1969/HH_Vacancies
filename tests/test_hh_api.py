@@ -40,4 +40,4 @@ def test_get_vacancies_failure(mock_get, hh_platform):
 
     # Проверяем, что метод вернул пустой список
     assert vacancies == []
-    mock_get.assert_called_once_with(hh_platform.base_url, params={"name": "Python", "per_page": 20})
+    mock_get.assert_called_once_with(hh_platform.base_url, params={"text": "Python", "per_page": 20})

@@ -404,5 +404,201 @@
         "salary_from": 15000000,
         "salary_to": 25000000,
         "description": "Описание не указано"
+    },
+    {
+        "name": "Название не указано",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120342229",
+        "salary_from": 750000,
+        "salary_to": 1000000,
+        "description": "Высшее юридическое образование. Опыт работы не менее 6 лет. Успешный опыт судебной практики. Уверенный пользователь ПК, справочно-правовых систем, умение..."
+    },
+    {
+        "name": "Название не указано",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120306372",
+        "salary_from": 15000000,
+        "salary_to": 25000000,
+        "description": "Высшее образование. Умение работать с бухгалтерской документацией. Навыки работы с договорами. Высокая степень ответственности. Желание развиваться в крупной компании."
+    },
+    {
+        "name": "Название не указано",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120350974",
+        "salary_from": 400000,
+        "salary_to": 700000,
+        "description": "Уверенная работа с Vue 3. Уверенная работа с Bootstrap 4. Опыт написания ent-to-end тестов для веб интерфейсов. "
+    },
+    {
+        "name": "Название не указано",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119710386",
+        "salary_from": 350000,
+        "salary_to": 0,
+        "description": "Высшее образование в области управления персоналом, психологии или смежных областях. Опыт работы на аналогичной должности будет плюсом. Знание трудового законодательства. "
+    },
+    {
+        "name": "Название не указано",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119729533",
+        "salary_from": 1000,
+        "salary_to": 0,
+        "description": "Профессионалов с опытом и портфолио. Людей, которые любят своё дело и умеют работать в команде. Ответственных и креативных специалистов. "
+    },
+    {
+        "name": "Название не указано",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120259056",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Опыт работы не менее 1+ лет в <highlighttext>разработке</highlighttext> мобильных приложений на Flutter. Flutter v2. 5+. "
+    },
+    {
+        "name": "Название не указано",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120261357",
+        "salary_from": 1000,
+        "salary_to": 2500,
+        "description": "Electrical automation, power system, mechanical and electrical related majors. Registered electrical engineer technical title. At least 3 years working experience..."
+    },
+    {
+        "name": "Название не указано",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119496870",
+        "salary_from": 300000,
+        "salary_to": 0,
+        "description": "Высшее образование (психологи. управление персоналом или смежные специальности). Знание трудового законодательства РК. Опыт работы в HR не менее 3 лет. "
+    },
+    {
+        "name": "Название не указано",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120306445",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Проводить ресерчи, искать идеи, генерировать идеи. Игровой опыт в разных жанрах. Интерес к GameDev и мобильным играм. Базовые навыки работы..."
+    },
+    {
+        "name": "Название не указано",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119587318",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Что ты будешь делать: Умение быстро искать и формулировать идеи. Грамотная речь и креативное мышление. Ответственность, инициативность и готовность учиться. "
+    },
+    {
+        "name": "Название не указано",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=116501452",
+        "salary_from": 75000,
+        "salary_to": 0,
+        "description": "опыт работы кладовщиком, комплектовщиком, сотрудником склада. -владение Word, Excel, желательно 1С."
+    },
+    {
+        "name": "Название не указано",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120279997",
+        "salary_from": 200000,
+        "salary_to": 0,
+        "description": "Знание основных характеристик крана: устройство, принцип работы. Знание и соблюдение производственных и должностных инструкций. Профильное образование. Опыт аналогичной работы — от..."
+    },
+    {
+        "name": "Название не указано",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119948388",
+        "salary_from": 250000,
+        "salary_to": 0,
+        "description": "Наличие удостоверения машиниста автокрана 8 разряда. Умение проводить ТО и обслуживание оборудования. Знание правил ТБ при выполнении работ. "
+    },
+    {
+        "name": "Название не указано",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119285799",
+        "salary_from": 100000,
+        "salary_to": 157300,
+        "description": "Водительское удостоверение категории В,С. Опыт работы от года. Знание устройства автомобиля, опыт мелкого ремонта."
+    },
+    {
+        "name": "Название не указано",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120251375",
+        "salary_from": 200000,
+        "salary_to": 220000,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "Название не указано",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120180190",
+        "salary_from": 140000,
+        "salary_to": 0,
+        "description": "Наличие свежей корочки обязательно."
+    },
+    {
+        "name": "Название не указано",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119186710",
+        "salary_from": 120000,
+        "salary_to": 180000,
+        "description": "Опыт работы от 3-х лет. Наличие удостоверения по профессии \"<highlighttext>Машинист</highlighttext> <highlighttext>крана</highlighttext> (<highlighttext>крановщик</highlighttext>) 4-5 р\"."
+    },
+    {
+        "name": "Название не указано",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120283618",
+        "salary_from": 290000,
+        "salary_to": 0,
+        "description": "Действующее удостоверение машиниста (тракториста) категория D и удостоверение <highlighttext>машиниста</highlighttext> <highlighttext>крана</highlighttext> с обучением выполнения работ по обслуживанию и управлению гусеничными и..."
+    },
+    {
+        "name": "Название не указано",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120237027",
+        "salary_from": 150000,
+        "salary_to": 0,
+        "description": "Опыт работы по профессии от 1-го года. Наличие действующего удостоверения <highlighttext>машиниста</highlighttext> <highlighttext>крана</highlighttext> автомобильного 7-го разряда и выше. "
+    },
+    {
+        "name": "Название не указано",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120305259",
+        "salary_from": 130000,
+        "salary_to": 168000,
+        "description": "Образование: Cреднее профессиональное образование и документ подтверждающий наличие квалификации. Опыт работы: От 1 года. Личные качества: Ответственность, нацеленность на результат."
+    },
+    {
+        "name": "Название не указано",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120259056",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Опыт работы не менее 1+ лет в разработке мобильных приложений на Flutter. Flutter v2. 5+. "
+    },
+    {
+        "name": "Название не указано",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120347108",
+        "salary_from": 500000,
+        "salary_to": 0,
+        "description": "Опыт разработки от 2 лет. Глубокие знания JavaScript и браузерного API. Опыт работы с Vue.js 3, включая Composition API. "
+    },
+    {
+        "name": "Название не указано",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120355717",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Опыт работы с подготовкой тест-планов, тест-кейсов, сценариев тестирования. Знания основных видов тестирования. Умение пользоваться консолью <highlighttext>разработчика</highlighttext> (DevTools). "
+    },
+    {
+        "name": "Название не указано",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120331701",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Опыт работы с Python от 1-го года . Опыт работы с одним или несколькими фреймворками: FastApi, Flask, Django, Django REST. "
+    },
+    {
+        "name": "Название не указано",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119780015",
+        "salary_from": 600,
+        "salary_to": 1000,
+        "description": "Использовать свой опыт, практические навыки и умение решать сложные проблемы. -Заниматься полным жизненным циклом функций, от концепции до развертывания. - "
+    },
+    {
+        "name": "Название не указано",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120355236",
+        "salary_from": 800,
+        "salary_to": 1000,
+        "description": "Понимание важности поддерживаемого кода и стандартов написания кода. Умение работать в команде и работать самостоятельно. Готовность учиться и самосовершенствоваться через..."
+    },
+    {
+        "name": "Название не указано",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120347087",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "3rd-4th year Students or Graduates of Bachelor’s degree in finance (economics or related fields). "
+    },
+    {
+        "name": "Название не указано",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119528306",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Базовые знания Dart и Flutter. Опыт разработки pet-проектов или учебных приложений (портфолио будет плюсом). Понимание ООП, основных паттернов проектирования. "
     }
 ]
