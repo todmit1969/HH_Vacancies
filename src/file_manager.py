@@ -37,8 +37,12 @@ class SaveToJSON(BaseFileManager):
         data = self._load_data()
         for vacancy in vacancies:
             vacancy_dict = vacancy.to_dict()
-            if vacancy_dict not in data:
-                data.append(vacancy_dict)
+            if vacancy.salary_to < 0 or vacancy.salary_from < 0:
+                raise (ValueError)
+            else:
+                if vacancy_dict not in data:
+                    data.append(vacancy_dict)
+
         self._save_data(data)
 
     def get_vacancies(self, criteria: Dict) -> List[Dict]:
