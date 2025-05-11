@@ -93,15 +93,6 @@ def platform_data():
 
 
 @pytest.fixture
-def temp_json_file(TEST_JSON_FILE):
-    """Фикстура для создания временного JSON-файла в тестах."""
-    file = TEST_JSON_FILE
-    yield file
-    if file.exists():
-        os.remove(file)
-
-
-@pytest.fixture
 def hh_platform():
     """Фикстура, создающая экземпляр HH_API."""
     return HH_API()
