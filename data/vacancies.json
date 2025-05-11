@@ -1,289 +1,16 @@
 [
     {
-        "name": "HR-специалист",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119710386",
-        "salary_from": 350000,
-        "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Начальник управления по борьбе с хищениями",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119551145",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "Верный"
-    },
-    {
-        "name": "Стажер в группу управления данными",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119504592",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Офис-менеджер",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120224524",
-        "salary_from": 200000,
-        "salary_to": 350000,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Графический дизайнер",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120199275",
-        "salary_from": 0,
-        "salary_to": 15000000,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "HR Менеджер",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120169159",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Electrical Engineer",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120261357",
-        "salary_from": 1000,
-        "salary_to": 2500,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Flutter-разработчик, Middle",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120259056",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Исполнительный директор (CEO)",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120273674",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Тестировщик",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120278818",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Директор административного департамента",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120066650",
+        "name": "Специалист по продаже недвижимости",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119451021",
         "salary_from": 500000,
-        "salary_to": 0,
-        "description": "Описание не указано"
+        "salary_to": 1000000,
+        "description": "Ответственного и вовлеченного. - Грамотная речь."
     },
     {
-        "name": "Документовед",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120292762",
-        "salary_from": 50000,
-        "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Заместитель коммерческого директора",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120277259",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "ФосАгро. Офис"
-    },
-    {
-        "name": "Шеф-повар",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120223820",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Руководитель проектов",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120288532",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "VK"
-    },
-    {
-        "name": "Старший тестировщик",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120291570",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Директор по правовым вопросам",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120264567",
-        "salary_from": 600000,
-        "salary_to": 700000,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Младший специалист по тестированию",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120226828",
-        "salary_from": 70000,
-        "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "QA инженер",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120286226",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Генеральный директор (CEO)",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120267762",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Графический дизайнер (junior)",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120252471",
-        "salary_from": 80000,
-        "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "HR бизнес-партнер (HR BP)",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120283928",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Бухгалтер",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120160964",
-        "salary_from": 2100,
-        "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Специалист по тестированию (middle) (Депозитарий)",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120292414",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "БКС IT & Digital"
-    },
-    {
-        "name": "Тестировщик",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120285078",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Flutter junior",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119528306",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Операционный директор (COO)",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120277998",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "IOS-разработчик",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120286071",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Frontend-разработчик",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120266553",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Junior Frontend-разработчик",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120100013",
-        "salary_from": 200000,
-        "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Junior Python Developer",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120111330",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Инженер по тестированию (г. Москва)",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120292763",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Java-разработчик/Java Developer",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120258027",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Frontend-разработчик",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120243921",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Middle QA-инженер",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120267083",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Frontend-разработчик",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120295456",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Тестировщик - QA Engineer (Middle+)",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120240613",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Frontend-разработчик",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120205527",
-        "salary_from": 5000000,
-        "salary_to": 13000000,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Главный юрисконсульт",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120156613",
-        "salary_from": 15000000,
-        "salary_to": 25000000,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Менеджер чатов (в Яндекс)",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119755314",
-        "salary_from": 30000,
-        "salary_to": 77000,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Менеджер по продажам (в шоу рум)",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120266595",
-        "salary_from": 200000,
-        "salary_to": 0,
+        "name": "Менеджер по продажам",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=118794341",
+        "salary_from": 300000,
+        "salary_to": 1800000,
         "description": "Описание не указано"
     },
     {
@@ -291,56 +18,56 @@
         "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119920638",
         "salary_from": 0,
         "salary_to": 0,
-        "description": "Описание не указано"
+        "description": "Ты будешь учиться и сразу применять знания на практике: помогать в сборке букетов, ухаживать за цветами, оформлять витрины.  "
     },
     {
-        "name": "Помощник Юриста",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119263637",
-        "salary_from": 450000,
+        "name": "Флорист / Помощник флориста",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120090804",
+        "salary_from": 100000,
+        "salary_to": 300000,
+        "description": "Нам нужен активный, целеустремленный , весёлый сотрудник готовый обучаться новому и экспериментировать."
+    },
+    {
+        "name": "Начинающий сотрудник поддержки ( удаленно, без продаж)",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120361234",
+        "salary_from": 38500,
         "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Администратор клиники",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119678901",
-        "salary_from": 5000000,
-        "salary_to": 12000000,
-        "description": "Описание не указано"
+        "description": "У вас грамотная письменная речь. Любите много общаться по телефону. Наличие ПК/ноутбука, стабильного интернета и гарнитуры."
     },
     {
         "name": "Продавец-флорист",
         "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119477930",
         "salary_from": 0,
         "salary_to": 250000,
-        "description": "Описание не указано"
+        "description": "Поддерживать порядок в магазине и следить, чтобы все выглядело на уровне \"Инстаграм-ready\". Творческая натура с идеями и вдохновением? "
+    },
+    {
+        "name": "Упаковщик / Комплектовщик на склады СБЕР",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120355701",
+        "salary_from": 225000,
+        "salary_to": 316500,
+        "description": "Желание зарабатывать. Внимательность, ответственность. ОПЫТ НЕ ТРЕБУЕТСЯ - всему обучим за один день. Готовность к вахтовому методу работы с проживанием на..."
+    },
+    {
+        "name": "Администратор",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120343825",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Грамотная речь. Не бояться камеры, умение качественно фотографировать работы. Ответственность."
     },
     {
         "name": "Официант",
         "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119802448",
         "salary_from": 4000000,
         "salary_to": 6000000,
-        "description": "Описание не указано"
+        "description": "знание русского языка обязательно , английский язык будет преимуществом. - опыт работы приветствуется. - вежливость, доброжелательность, пунктуальность."
     },
     {
-        "name": "Стажер",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119949674",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Водитель",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120261684",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Продавец-консультант (бьюти-продукции)",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119932258",
-        "salary_from": 0,
-        "salary_to": 120000,
-        "description": "Описание не указано"
+        "name": "Юрист",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120342229",
+        "salary_from": 750000,
+        "salary_to": 1000000,
+        "description": "Высшее юридическое образование. Опыт работы не менее 6 лет. Успешный опыт судебной практики. Уверенный пользователь ПК, справочно-правовых систем, умение..."
     },
     {
         "name": "Системный администратор",
@@ -355,250 +82,5 @@
         "salary_from": -60000,
         "salary_to": 120000,
         "description": "Описание не указано"
-    },
-    {
-        "name": "Оператор колл-центра (Ярославль)",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120305892",
-        "salary_from": 70000,
-        "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "SMM-менеджер",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119880101",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Специалист по продаже недвижимости",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119451021",
-        "salary_from": 500000,
-        "salary_to": 1000000,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Флорист / Помощник флориста",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120090804",
-        "salary_from": 100000,
-        "salary_to": 300000,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "SMM-специалист/контент-креатор в салон красоты Innstyle",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119688501",
-        "salary_from": 150000,
-        "salary_to": 0,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Менеджер по продажам",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=118794341",
-        "salary_from": 300000,
-        "salary_to": 1800000,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Юрисконсульт",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120306372",
-        "salary_from": 15000000,
-        "salary_to": 25000000,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Название не указано",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120342229",
-        "salary_from": 750000,
-        "salary_to": 1000000,
-        "description": "Высшее юридическое образование. Опыт работы не менее 6 лет. Успешный опыт судебной практики. Уверенный пользователь ПК, справочно-правовых систем, умение..."
-    },
-    {
-        "name": "Название не указано",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120306372",
-        "salary_from": 15000000,
-        "salary_to": 25000000,
-        "description": "Высшее образование. Умение работать с бухгалтерской документацией. Навыки работы с договорами. Высокая степень ответственности. Желание развиваться в крупной компании."
-    },
-    {
-        "name": "Название не указано",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120350974",
-        "salary_from": 400000,
-        "salary_to": 700000,
-        "description": "Уверенная работа с Vue 3. Уверенная работа с Bootstrap 4. Опыт написания ent-to-end тестов для веб интерфейсов. "
-    },
-    {
-        "name": "Название не указано",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119710386",
-        "salary_from": 350000,
-        "salary_to": 0,
-        "description": "Высшее образование в области управления персоналом, психологии или смежных областях. Опыт работы на аналогичной должности будет плюсом. Знание трудового законодательства. "
-    },
-    {
-        "name": "Название не указано",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119729533",
-        "salary_from": 1000,
-        "salary_to": 0,
-        "description": "Профессионалов с опытом и портфолио. Людей, которые любят своё дело и умеют работать в команде. Ответственных и креативных специалистов. "
-    },
-    {
-        "name": "Название не указано",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120259056",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "Опыт работы не менее 1+ лет в <highlighttext>разработке</highlighttext> мобильных приложений на Flutter. Flutter v2. 5+. "
-    },
-    {
-        "name": "Название не указано",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120261357",
-        "salary_from": 1000,
-        "salary_to": 2500,
-        "description": "Electrical automation, power system, mechanical and electrical related majors. Registered electrical engineer technical title. At least 3 years working experience..."
-    },
-    {
-        "name": "Название не указано",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119496870",
-        "salary_from": 300000,
-        "salary_to": 0,
-        "description": "Высшее образование (психологи. управление персоналом или смежные специальности). Знание трудового законодательства РК. Опыт работы в HR не менее 3 лет. "
-    },
-    {
-        "name": "Название не указано",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120306445",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "Проводить ресерчи, искать идеи, генерировать идеи. Игровой опыт в разных жанрах. Интерес к GameDev и мобильным играм. Базовые навыки работы..."
-    },
-    {
-        "name": "Название не указано",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119587318",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "Что ты будешь делать: Умение быстро искать и формулировать идеи. Грамотная речь и креативное мышление. Ответственность, инициативность и готовность учиться. "
-    },
-    {
-        "name": "Название не указано",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=116501452",
-        "salary_from": 75000,
-        "salary_to": 0,
-        "description": "опыт работы кладовщиком, комплектовщиком, сотрудником склада. -владение Word, Excel, желательно 1С."
-    },
-    {
-        "name": "Название не указано",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120279997",
-        "salary_from": 200000,
-        "salary_to": 0,
-        "description": "Знание основных характеристик крана: устройство, принцип работы. Знание и соблюдение производственных и должностных инструкций. Профильное образование. Опыт аналогичной работы — от..."
-    },
-    {
-        "name": "Название не указано",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119948388",
-        "salary_from": 250000,
-        "salary_to": 0,
-        "description": "Наличие удостоверения машиниста автокрана 8 разряда. Умение проводить ТО и обслуживание оборудования. Знание правил ТБ при выполнении работ. "
-    },
-    {
-        "name": "Название не указано",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119285799",
-        "salary_from": 100000,
-        "salary_to": 157300,
-        "description": "Водительское удостоверение категории В,С. Опыт работы от года. Знание устройства автомобиля, опыт мелкого ремонта."
-    },
-    {
-        "name": "Название не указано",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120251375",
-        "salary_from": 200000,
-        "salary_to": 220000,
-        "description": "Описание не указано"
-    },
-    {
-        "name": "Название не указано",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120180190",
-        "salary_from": 140000,
-        "salary_to": 0,
-        "description": "Наличие свежей корочки обязательно."
-    },
-    {
-        "name": "Название не указано",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119186710",
-        "salary_from": 120000,
-        "salary_to": 180000,
-        "description": "Опыт работы от 3-х лет. Наличие удостоверения по профессии \"<highlighttext>Машинист</highlighttext> <highlighttext>крана</highlighttext> (<highlighttext>крановщик</highlighttext>) 4-5 р\"."
-    },
-    {
-        "name": "Название не указано",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120283618",
-        "salary_from": 290000,
-        "salary_to": 0,
-        "description": "Действующее удостоверение машиниста (тракториста) категория D и удостоверение <highlighttext>машиниста</highlighttext> <highlighttext>крана</highlighttext> с обучением выполнения работ по обслуживанию и управлению гусеничными и..."
-    },
-    {
-        "name": "Название не указано",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120237027",
-        "salary_from": 150000,
-        "salary_to": 0,
-        "description": "Опыт работы по профессии от 1-го года. Наличие действующего удостоверения <highlighttext>машиниста</highlighttext> <highlighttext>крана</highlighttext> автомобильного 7-го разряда и выше. "
-    },
-    {
-        "name": "Название не указано",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120305259",
-        "salary_from": 130000,
-        "salary_to": 168000,
-        "description": "Образование: Cреднее профессиональное образование и документ подтверждающий наличие квалификации. Опыт работы: От 1 года. Личные качества: Ответственность, нацеленность на результат."
-    },
-    {
-        "name": "Название не указано",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120259056",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "Опыт работы не менее 1+ лет в разработке мобильных приложений на Flutter. Flutter v2. 5+. "
-    },
-    {
-        "name": "Название не указано",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120347108",
-        "salary_from": 500000,
-        "salary_to": 0,
-        "description": "Опыт разработки от 2 лет. Глубокие знания JavaScript и браузерного API. Опыт работы с Vue.js 3, включая Composition API. "
-    },
-    {
-        "name": "Название не указано",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120355717",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "Опыт работы с подготовкой тест-планов, тест-кейсов, сценариев тестирования. Знания основных видов тестирования. Умение пользоваться консолью <highlighttext>разработчика</highlighttext> (DevTools). "
-    },
-    {
-        "name": "Название не указано",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120331701",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "Опыт работы с Python от 1-го года . Опыт работы с одним или несколькими фреймворками: FastApi, Flask, Django, Django REST. "
-    },
-    {
-        "name": "Название не указано",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119780015",
-        "salary_from": 600,
-        "salary_to": 1000,
-        "description": "Использовать свой опыт, практические навыки и умение решать сложные проблемы. -Заниматься полным жизненным циклом функций, от концепции до развертывания. - "
-    },
-    {
-        "name": "Название не указано",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120355236",
-        "salary_from": 800,
-        "salary_to": 1000,
-        "description": "Понимание важности поддерживаемого кода и стандартов написания кода. Умение работать в команде и работать самостоятельно. Готовность учиться и самосовершенствоваться через..."
-    },
-    {
-        "name": "Название не указано",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120347087",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "3rd-4th year Students or Graduates of Bachelor’s degree in finance (economics or related fields). "
-    },
-    {
-        "name": "Название не указано",
-        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119528306",
-        "salary_from": 0,
-        "salary_to": 0,
-        "description": "Базовые знания Dart и Flutter. Опыт разработки pet-проектов или учебных приложений (портфолио будет плюсом). Понимание ООП, основных паттернов проектирования. "
     }
 ]

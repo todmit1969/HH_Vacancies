@@ -66,7 +66,7 @@ class Vacancy:
         """Метод для формирования списка вакансий из данных платформы"""
         vacancies = []
         for job_data in platform_data:
-            name = job_data.get("text", "Название не указано")
+            name = job_data.get("name", "Название не указано")
             url = job_data.get("apply_alternate_url", "")
 
             salary_from = (
@@ -79,12 +79,12 @@ class Vacancy:
             )
 
             department = job_data.get("department")
-            #description = (
-            #    department.get("name", "Описание не указано")
-            #    if department
-            #    else "Описание не указано"
-            #)
-            description = job_data['snippet']['requirement']
+            description = (
+                department.get("name", "Описание не указано")
+                if department
+                else "Описание не указано"
+            )
+            # description = job_data['name']['requirement']
             vacancy = Vacancy(
                 name=name,
                 url=url,

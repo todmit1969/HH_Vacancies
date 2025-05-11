@@ -26,7 +26,7 @@ class HH_API(BasePlatform_API):
     def get_vacancies(self, search_query: str, per_page: int = 20) -> List[Dict]:
         """Получаем вакансии с платформы hh.ru по
         заданному запросу и количеству на страницу."""
-        params = {"text": search_query, "per_page": per_page}
+        params = {"name": search_query, "per_page": per_page}
         try:
             response = requests.get(self.base_url, params=params)
             response.raise_for_status()
