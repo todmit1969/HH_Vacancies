@@ -8,7 +8,7 @@ from src.vacancy import Vacancy
 
 class SaveToJSON(BaseFileManager):
     def __init__(self, file_path: str = "vacancies.json") -> None:
-        self.__file_path = JSON_PATH
+        self.__file_path = file_path
         if not self.__file_path.exists():
             self._save_data([])  # Создаём пустой JSON, если файла нет
 

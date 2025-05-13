@@ -82,5 +82,75 @@
         "salary_from": -60000,
         "salary_to": 120000,
         "description": "Описание не указано"
+    },
+    {
+        "name": "Тестировщик (QA engineer)",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120461919",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "Юрист",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120342229",
+        "salary_from": 750000,
+        "salary_to": 1000000,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "Golang-разработчик",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120393391",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "Java developer",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120403629",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "Frontend-разработчик",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120356763",
+        "salary_from": 2000000,
+        "salary_to": 5000000,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "Sales Manager",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=115722481",
+        "salary_from": 5200000,
+        "salary_to": 0,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "Разработчик React",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120171524",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "Руководитель службы безопасности",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120458491",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "HR менеджер",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=119496870",
+        "salary_from": 300000,
+        "salary_to": 0,
+        "description": "Описание не указано"
+    },
+    {
+        "name": "Специалист / руководитель / коммерческий директор",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=120387279",
+        "salary_from": 0,
+        "salary_to": 3000000,
+        "description": "Описание не указано"
     }
 ]
