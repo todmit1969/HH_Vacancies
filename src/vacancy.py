@@ -84,7 +84,7 @@ class Vacancy:
                 if department
                 else "Описание не указано"
             )
-
+            # description = job_data['name']['requirement']
             vacancy = Vacancy(
                 name=name,
                 url=url,

@@ -11,10 +11,11 @@ def get_vacancies_by_salary(filtered_vacancies, salary_range):
         return []
 
     for vacancy in filtered_vacancies:
-        salary = vacancy.get("salary", {})
-        salary_from = salary.get("from")
-        salary_to = salary.get("to")
-
+        #salary = vacancy.get("salary", {})
+        #salary_from = salary.get("from")
+        #salary_to = salary.get("to")
+        salary_from = vacancy["salary_from"]
+        salary_to = vacancy['salary_to']
         # Проверка диапазона зарплат
         if salary_from is not None and salary_to is not None:
             try:
@@ -29,6 +30,7 @@ def get_vacancies_by_salary(filtered_vacancies, salary_range):
             continue
 
     # Сортировка вакансий
-    return sorted(
-        filtered_salary_vacancies, key=lambda x: x["salary"].get("to", 0), reverse=True
-    )
+    #return sorted(
+    #    filtered_salary_vacancies, key=lambda x: x["salary"].get("to", 0), reverse=True
+    #)
+    return sorted(filtered_salary_vacancies, key=lambda x: x["salary_to"], reverse=True)

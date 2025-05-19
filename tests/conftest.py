@@ -6,7 +6,7 @@ from src.vacancy_platform_api import HH_API
 from src.vacancy import Vacancy
 
 @pytest.fixture
-def TEST_JSON_FILE():
+def test_json_file():
     """Фикстура для возвращающая имя временного файла с данными."""
     BASE_DIR = Path(__file__).resolve().parent
     TEST_JSON_PATH = BASE_DIR.joinpath('test_vacancies.json')
@@ -90,15 +90,6 @@ def platform_data():
             "department": {"name": "Отдел тестирования"},
         },
     ]
-
-
-@pytest.fixture
-def temp_json_file(TEST_JSON_FILE):
-    """Фикстура для создания временного JSON-файла в тестах."""
-    file = TEST_JSON_FILE
-    yield file
-    if file.exists():
-        os.remove(file)
 
 
 @pytest.fixture
